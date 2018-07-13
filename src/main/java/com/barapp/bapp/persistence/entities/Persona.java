@@ -1,4 +1,4 @@
-package com.barapp.bapp;
+package com.barapp.bapp.persistence.entities;
 
 import lombok.Data;
 
